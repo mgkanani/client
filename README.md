@@ -1,3 +1,8 @@
+References:-
+http://stackoverflow.com/questions/17766770/socket-echo-server-in-go
+http://golang.org/doc/effective_go.html
+
+
 client
 ======
 To download client package from github.com:-
