@@ -11,7 +11,7 @@ To download client package from github.com:-
 To create executable use below command(first make sure correctly setting of GOPATH and PATH env-variables):-
 	go install
 To run:-
-	client 127.0.0.1:12345
+	client ipaddr:port_num
 Now to set key-value pair give input in below format:-
 	set [key] [value]
 To get value of specific key use:-
